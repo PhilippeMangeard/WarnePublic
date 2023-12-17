@@ -8,6 +8,8 @@ Warne is a tool designed to help IPV victims and investigator analyze and gather
 
 The tools runs locally on a computer and does not require anything to be installed on the analyzed phone.
 
+This repository is a public version, in which the tool's source code is unavailable. If you or your organization wishes to get access to Warne's full repository, you can request access by sending an email to p_mangea@ciise.concordia.ca.
+
 # Requirements:
 
 ## ADB
